@@ -1,0 +1,38 @@
+## Table of Contents: Overview
+- Introduction ............................................................................. 15
+- Section I: View Animations................................................. 21
+	- Chapter 1: Getting Started with View Animations ....................................................................... 24
+	- Chapter 2: Springs......................................................... 37
+	- Chapter 3: Transitions.................................................. 46
+	- Chapter 4: View Animations in Practice............... 60
+	- Chapter 5: Keyframe Animations............................ 73
+- Section II: Auto Layout ......................................................... 83
+	- Chapter 6: Introduction to Auto Layout............... 85
+	- Chapter 7: Animating Constraints ....................... 106
+- Section III: Layer Animations .......................................... 125
+	- Chapter 8: Getting Started with Layer Animations..................................................................... 128
+	- Chapter 9: Animation Keys & Delegates ........... 147
+	- Chapter 10: Groups & Advanced Timing........... 158
+	- Chapter 11: Layer Springs ....................................... 168
+	- Chapter 12: Layer Keyframe Animations & Struct Properties......................................................... 181
+	- Chapter 13: Shapes & Masks.................................. 188
+	- Chapter 14: Gradient Animations........................ 202
+	- Chapter 15: Stroke and Path Animations.......... 211
+	- Chapter 16: Replicating Animations ................... 221
+- Section IV: View Controller Transition Animations ............................................................................. 241
+	- Chapter 17: Presentation Controller & Orientation Animations ........................................... 244
+	- Chapter 18: UINavigationController Custom Transition Animations ............................................... 265
+	- Chapter 19: Interactive UINavigationController Transitions.................... 280
+- Section V: Animations with UIViewPropertyAnimator ............................................... 292
+	- Chapter 20: Getting Started with UIViewPropertyAnimator....................................... 294
+	- Chapter 21: Intermediate Animations with UIViewPropertyAnimator....................................... 309
+	- Chapter 22: Interactive Animations with UIViewPropertyAnimator....................................... 326
+	- Chapter 23: UIViewPropertyAnimator View Controller Transitions ............................................... 344
+- Section VI: 3D Animations............................................... 361
+	- Chapter 24: Simple 3D Animations ..................... 365
+	- Chapter 25: Intermediate 3D Animations ........ 376
+- Section VII: Further Types of Animations .................. 389
+	- Chapter 26: Particle Emitters ................................ 391
+	- Chapter 27: Frame Animations with UIImageView................................................................. 408
+	- Conclusion.............................................................................. 419
+	- More Books You Might Enjoy ......................................... 420
