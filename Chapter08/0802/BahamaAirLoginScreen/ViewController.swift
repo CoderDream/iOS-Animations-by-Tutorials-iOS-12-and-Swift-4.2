@@ -98,18 +98,15 @@ class ViewController: UIViewController {
         // 给用户名添加动画
         username.layer.add(flyRight, forKey: nil)
         
-        
         // 延迟 0.3 秒
         flyRight.beginTime = CACurrentMediaTime() + 0.4
         // 给用户名添加动画
         password.layer.add(flyRight, forKey: nil)
         
-        
         // 隐藏三个控件
         //heading.center.x -= view.bounds.width
         //username.center.x -= view.bounds.width
         //password.center.x -= view.bounds.width
-        
         
         cloud1.alpha = 0.0
         cloud2.alpha = 0.0
@@ -122,9 +119,7 @@ class ViewController: UIViewController {
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-        
-        
-        
+                
         //
 //        UIView.animate(withDuration: 0.5) {
 //            self.heading.center.x += self.view.bounds.width
